@@ -5,6 +5,8 @@ bibliography: references.bib
 
 ## Phthalocyanine
 
+See Fig. @fig-cars
+
 This is a paragraph with a reference:[@gredig1998]and [@gredig2006], see Fig. @fig-cars. The following equation is for speed:
 
 $$
