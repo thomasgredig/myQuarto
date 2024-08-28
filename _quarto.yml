@@ -3,3 +3,7 @@ project:
 
 editor: visual
 
+format:
+  pdf: default
+  docx: default
+  pptx: default

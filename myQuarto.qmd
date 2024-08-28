@@ -5,11 +5,18 @@ bibliography: references.bib
 
 ## Phthalocyanine
 
-This is a paragraph with a reference:[@gredig1998]and [@gredig2006], see Fig.{#fig-cars}.
+This is a paragraph with a reference:[@gredig1998]and [@gredig2006], see Fig. @fig-cars. The following equation is for speed:
+
+$$
+\vec{v} = \frac{d\vec{r}}{dt}
+$$ {#eq-speed}
+
+See Eq. @eq-speed for more details.
 
 ```{r}
 #| fig-cap: First figure caption that shows
 #|      car speed versus distance
+#| label: fig-cars
 
 plot(cars)
 
