@@ -1,0 +1,5 @@
+/.quarto/
+.Rproj.user
+/myQuarto_files
+.Rhistory
+myQuarto.html

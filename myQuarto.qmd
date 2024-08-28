@@ -1,0 +1,16 @@
+---
+title: "myQuarto"
+bibliography: references.bib
+---
+
+## Phthalocyanine
+
+This is a paragraph with a reference:[@gredig1998]and [@gredig2006], see Fig.{#fig-cars}.
+
+```{r}
+#| fig-cap: First figure caption that shows
+#|      car speed versus distance
+
+plot(cars)
+
+```
